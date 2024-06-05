@@ -1,0 +1,10 @@
+langchain
+langchain_community
+python-dotenv
+boto3
+psycopg
+psycopg_binary
+pgvector
+pypdf
+streamlit
+ipykernel
